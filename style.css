@@ -2,13 +2,13 @@ body
 {background-color: gray;
   height:100%;}
 
-nav
+nav 
 {margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: black;}
-
-a
+  
+a 
 {float:left;
 display:block;
 color: white;
@@ -45,37 +45,37 @@ margin: 0 auto;
 padding-bottom: 20px;
 font-family: "Trebuchet MS";}
 
-table
+table 
 { padding-top: 10px;
   margin-left: 10px;
   margin-right: auto;}
 
-table a
+table a 
 { padding-top: 10px;
   margin-left:10px;
   margin-right:auto;}
 
-#mail
+#mail 
 { border: 5px black;
   margin-top: 30%;
   background-color: black;
-
+ 
 }
 
-#mail:hover
+#mail:hover 
 { border: 5px black;
   margin-top: 10px;
   background-color: white;}
 
 
 
-footer
+footer 
 {margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: black;}
 
-form
+form 
 { border:5px solid;
   margin-left: auto;
   margin-right: auto;
@@ -83,7 +83,7 @@ form
   background-color: #d3d3d3;
   font-family:times;}
 
-.footerclass
+.footerclass 
 {margin-top: 30%}
 
 ul { font-family: times;}
