@@ -1,4 +1,4 @@
-function myFunction(){
+function myFunction(){ 
 
 var x = document.getElementById("textID").value;
 var wordCounter = 1;
@@ -30,3 +30,4 @@ document.getElementById("p1").innerHTML = 'There are ' + wordCounter + ' words i
 document.getElementById("p2").innerHTML = 'There are ' + spaceCounter + ' spaces in this text.';
 document.getElementById("p3").innerHTML = 'There are ' + sentenceCounter + ' sentences in this text.';
 document.getElementById("p4").innerHTML = 'There are ' + averageWordCounter + ' average words per sentence in this text.';
+}
